@@ -2,7 +2,7 @@
 
 #### Soy un desarrollador junior apasionado por la tecnología y que disfruta cada línea de código que escribe, siempre buscando la manera de hacer las cosas mejor y más eficientes. Me encanta enfrentarme a nuevos retos y aprender algo nuevo cada día, ya sea en mi trabajo o en proyectos personales.
 
-#### Mi objetivo es crear soluciones que no solo funcionen, sino que también hagan la vida más fácil para quienes las usan. Creo firmemente en el poder del trabajo en equipo y me esfuerzo por aportar lo mejor de mí en cada proyecto en el que participo.:wrench::earth_africa:
+#### Mi objetivo es crear soluciones que no solo funcionen, sino que también hagan la vida más fácil para quienes las usan. Creo firmemente en el poder del trabajo en equipo y me esfuerzo por aportar lo mejor de mí en cada proyecto en el que participo. :wrench: :earth_africa:
 
 <!--
 **ALaLodev/ALaLoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
