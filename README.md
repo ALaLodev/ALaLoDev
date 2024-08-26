@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Creating code from Barcelona for the world.
+
+### Passionate about creating efficient and scalable solutions, I am constantly looking to improve my skills and contribute to open source projects.🤔🔭
+
+### Committed to continuous learning and implementation of best practices in software development.🌱
 <!--
 **ALaLodev/ALaLoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
