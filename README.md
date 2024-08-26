@@ -4,7 +4,6 @@
 
 #### Mi objetivo es crear soluciones que no solo funcionen, sino que también hagan la vida más fácil para quienes las usan. Creo firmemente en el poder del trabajo en equipo y me esfuerzo por aportar lo mejor de mí en cada proyecto en el que participo.
 
-#### Creating code from Barcelona to the World.🌱
 <!--
 **ALaLodev/ALaLoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
