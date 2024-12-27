@@ -1,3 +1,9 @@
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXljeXE5YnJ2a2l4ZTh1NWRoMzdycDk1Zml5ZGdnbTl4YnBleTJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vTNWp0OA3qg9dBzhog/giphy.webp" width="100" style="margin-right: 10px;" />
+    <strong>Hi everyone! I'm Antonio Lafuente</strong>
+  </div>
+</div>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio
 ===============================================================================================================================
 
@@ -35,7 +41,5 @@ I am apassionate about technology, striving to turn my passion into my professio
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/alalodev/ByteBuiders" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alalodev&repo=ByteBuiders&title_color=6366f1&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/alalodev/SistemaVenta" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alalodev&repo=SistemaVenta&title_color=6366f1&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/alalodev/HoroscoApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alalodev&repo=HoroscoApp&title_color=6366f1&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
