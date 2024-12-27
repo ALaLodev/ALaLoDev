@@ -1,7 +1,8 @@
 <div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXljeXE5YnJ2a2l4ZTh1NWRoMzdycDk1Zml5ZGdnbTl4YnBleTJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vTNWp0OA3qg9dBzhog/giphy.webp" width="100" style="margin-right: 10px;" />
   <strong>Hi There! I'm Antonio Lafuente</strong>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXljeXE5YnJ2a2l4ZTh1NWRoMzdycDk1Zml5ZGdnbTl4YnBleTJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vTNWp0OA3qg9dBzhog/giphy.webp" width="100" />  
 </div>
+
 
 #### Soy un desarrollador junior apasionado por la tecnología intentando hacer de mi pasión mi profesión, siempre buscando la manera de hacer las cosas mejor y más eficientes. Me encanta enfrentarme a nuevos retos y aprender algo nuevo cada día, ya sea en mi trabajo o en proyectos personales :wrench:
 
