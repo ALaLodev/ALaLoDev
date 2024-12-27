@@ -1,3 +1,5 @@
+<img src=<iframe src="https://giphy.com/embed/vTNWp0OA3qg9dBzhog" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/nuevofoundation-robot-stem-nuvi-vTNWp0OA3qg9dBzhog">via GIPHY</a></p> width="100">
+
 ## Hola, mi nombre es Antonio Lafuente👋
 
 #### Soy un desarrollador junior apasionado por la tecnología intentando hacer de mi pasión mi profesion, siempre buscando la manera de hacer las cosas mejor y más eficientes. Me encanta enfrentarme a nuevos retos y aprender algo nuevo cada día, ya sea en mi trabajo o en proyectos personales :wrench:
