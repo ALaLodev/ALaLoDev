@@ -1,9 +1,7 @@
-<div style="text-align:center;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXljeXE5YnJ2a2l4ZTh1NWRoMzdycDk1Zml5ZGdnbTl4YnBleTJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vTNWp0OA3qg9dBzhog/giphy.webp" width="100" />
-  <strong style="font-size: 36px;">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> My name is Antonio.</strong>
-</div>
 
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXljeXE5YnJ2a2l4ZTh1NWRoMzdycDk1Zml5ZGdnbTl4YnBleTJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vTNWp0OA3qg9dBzhog/giphy.webp" width="100" />
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio
+===============================================================================================================================
 
 Junior Developer
 ----------------
