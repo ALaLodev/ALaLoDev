@@ -1,15 +1,12 @@
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXljeXE5YnJ2a2l4ZTh1NWRoMzdycDk1Zml5ZGdnbTl4YnBleTJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vTNWp0OA3qg9dBzhog/giphy.webp" width="100" style="margin-right: 10px;" />
-     <strong>Hi everyone! I'm Antonio Lafuente</strong>
-  </div>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXljeXE5YnJ2a2l4ZTh1NWRoMzdycDk1Zml5ZGdnbTl4YnBleTJzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vTNWp0OA3qg9dBzhog/giphy.webp" width="100" style="margin-right: 10px;" />
+  <strong>Hi There! I'm Antonio Lafuente</strong>
 </div>
-===============================================================================================================================
 
-Junior Developer
-----------------
+#### I am a junior developer passionate about technology, striving to turn my passion into my profession, always looking for ways to make things better and more efficient. I love tackling new challenges and learning something new every day, whether in my job or personal projects. :wrench:
 
-I am apassionate about technology, striving to turn my passion into my profession, always looking for ways to make things better and more efficient. I love tackling new challenges and learning something new every day, whether in my job or personal projects. :wrench: My goal is to create solutions that not only work but also make life easier for those who use them. I firmly believe in the power of teamwork and strive to bring the best of myself to every project I participate in. :earth\_africa:
+#### My goal is to create solutions that not only work but also make life easier for those who use them. I firmly believe in the power of teamwork and strive to bring the best of myself to every project I participate in. :earth_africa:
+
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [antonio.lafuente@outlook.com](mailto:antonio.lafuente@outlook.com)
