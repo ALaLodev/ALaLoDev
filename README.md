@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/vTNWp0OA3qg9dBzhog" width="100" height="100" style="" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/stickers/nuevofoundation-robot-stem-nuvi-vTNWp0OA3qg9dBzhog"></a></p> 
+<img src="https://giphy.com/stickers/nuevofoundation-robot-stem-nuvi-vTNWp0OA3qg9dBzhog" width="100" /> 
 
 ## Hola, mi nombre es Antonio Lafuente👋
 
