@@ -28,6 +28,4 @@ I am apassionate about technology, striving to turn my passion into my professio
 
 <a href="http://www.github.com/Alalodev"><img src="https://github-readme-stats.vercel.app/api?username=Alalodev&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="Alalodev's GitHub stats" /></a>
 
-<a href="http://www.github.com/Alalodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alalodev&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
 <a href="https://github.com/Alalodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alalodev&langs_count=10&title_color=6366f1&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
