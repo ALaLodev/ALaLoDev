@@ -3,15 +3,10 @@
   <strong>Hi There! I'm Antonio Lafuente</strong>
 </div>
 
+#### I am a junior developer passionate about technology, striving to turn my passion into my profession, always looking for ways to make things better and more efficient. I love tackling new challenges and learning something new every day, whether in my job or personal projects. :wrench:
 
-#### Soy un desarrollador junior apasionado por la tecnología intentando hacer de mi pasión mi profesión, siempre buscando la manera de hacer las cosas mejor y más eficientes. Me encanta enfrentarme a nuevos retos y aprender algo nuevo cada día, ya sea en mi trabajo o en proyectos personales :wrench:
+#### My goal is to create solutions that not only work but also make life easier for those who use them. I firmly believe in the power of teamwork and strive to bring the best of myself to every project I participate in. :earth_africa:
 
-#### Mi objetivo es crear soluciones que no solo funcionen, sino que también hagan la vida más fácil para quienes las usan. Creo firmemente en el poder del trabajo en equipo y me esfuerzo por aportar lo mejor de mí en cada proyecto en el que participo :earth_africa:
-
-
-#### Soy un desarrollador junior apasionado por la tecnología intentando hacer de mi pasión mi profesion, siempre buscando la manera de hacer las cosas mejor y más eficientes. Me encanta enfrentarme a nuevos retos y aprender algo nuevo cada día, ya sea en mi trabajo o en proyectos personales :wrench:
-
-#### Mi objetivo es crear soluciones que no solo funcionen, sino que también hagan la vida más fácil para quienes las usan. Creo firmemente en el poder del trabajo en equipo y me esfuerzo por aportar lo mejor de mí en cada proyecto en el que participo :earth_africa:
 
 <!--
 **ALaLodev/ALaLoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
