@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio
 ===============================================================================================================================
 
-Mobile Developer
+Mobile Software Developer
 ----------------
 
 I am apassionate about technology, striving to turn my passion into my profession, always looking for ways to make things better and more efficient. I love tackling new challenges and learning something new every day, whether in my job or personal projects. :wrench: 
