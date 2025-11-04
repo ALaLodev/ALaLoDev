@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antonio
 ===============================================================================================================================
 
-Junior Developer
+Mobile Developer
 ----------------
 
 I am apassionate about technology, striving to turn my passion into my profession, always looking for ways to make things better and more efficient. I love tackling new challenges and learning something new every day, whether in my job or personal projects. :wrench: 
@@ -10,7 +10,8 @@ My goal is to create solutions that not only work but also make life easier for 
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [antonio.lafuente@outlook.com](mailto:antonio.lafuente@outlook.com)
-* 🧠  I'm learning Kotlin Multiplatform and Jetpack compose
+* 🧠  I'm learning Flutter
+* 🧠  I will learn Kotlin Multiplatform and Jetpack compose
 
 ### Skills
 
