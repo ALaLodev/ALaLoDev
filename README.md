@@ -11,7 +11,6 @@ My goal is to create solutions that not only work but also make life easier for 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [antonio.lafuente@outlook.com](mailto:antonio.lafuente@outlook.com)
 * 🧠  I'm learning Flutter
-* 🧠  I will learn Kotlin Multiplatform and Jetpack compose
 
 ### Skills
 
