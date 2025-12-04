@@ -26,14 +26,7 @@ My goal is to create solutions that not only work but also make life easier for 
 
 ### Badges
 
-<h3>My GitHub Stats</h3>
+<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Alalodev">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alalodev&show_icons=true&count_private=true&title_color=6366f1&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true" 
-         alt="Alalodev's GitHub stats" />
-</a>
-
-<br> <a href="https://github.com/Alalodev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alalodev&langs_count=10&title_color=6366f1&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" 
-         alt="Top Languages" />
-</a>
+<a href="http://www.github.com/Alalodev"><img src="https://github-readme-stats.vercel.app/api?username=Alalodev&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="Alalodev's GitHub stats" /></a>
+<a href="https://github.com/Alalodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alalodev&langs_count=10&title_color=6366f1&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
