@@ -29,13 +29,4 @@ My goal is to create solutions that not only work but also make life easier for 
 <b>My GitHub Stats</b>
 
 
-
-<div align="center">
-  <a href="https://github.com/Alalodev">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alalodev&show_icons=true&count_private=true&title_color=6366f1&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true" alt="Alalodev's GitHub stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/Alalodev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alalodev&layout=compact&langs_count=10&title_color=6366f1&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
