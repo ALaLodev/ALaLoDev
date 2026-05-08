@@ -14,9 +14,11 @@ My goal is to create solutions that not only work but also make life easier for 
 
 ### Skills
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,firebase,java,git,mysql,cs,dotnet" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,firebase,java,maven,gradle,spring,git,mysql,prisma,supabase,docker,kafka" />
+  </a>
+</p>
 
 
 ### Socials
