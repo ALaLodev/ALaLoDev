@@ -8,9 +8,10 @@ I am apassionate about technology, striving to turn my passion into my professio
 
 My goal is to create solutions that not only work but also make life easier for those who use them. I firmly believe in the power of teamwork and strive to bring the best of myself to every project I participate in. :earth\_africa:
 
-* 🌍  I'm based in Barcelona
-* ✉️  You can contact me at [antonio.lafuente@outlook.com](mailto:antonio.lafuente@outlook.com)
+* 🌍  I'm based in Barcelona
+* ✉️  You can contact me at [antonio.lafuente@outlook.com](mailto:antonio.lafuente@outlook.com)
 * 📱  I'm passionate about Mobile Development (Kotlin, Flutter, Java)
+* 💻  Check out my Portfolio: [alalodev.github.io/portfolio](https://alalodev.github.io/portfolio/)
 
 ### Skills
 
